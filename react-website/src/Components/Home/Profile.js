@@ -7,6 +7,8 @@ export default function Profile() {
       <div className="profile-parent">
         <div className="profile-details">
           <div className="colz">
+            <div className="colz-icon">
+
             <a href="www.facebook.com">
               <i className="fa fa-facebook-square"></i>
             </a>
@@ -22,11 +24,12 @@ export default function Profile() {
             <a href="www.twitter.com">
               <i className="fa fa-twitter"></i>
             </a>
+            </div>
           </div>
           <div className="profile-details-name">
             <span className="primary-text">
               {" "}
-              Hello, I'M <span className="highlighted-text">Anıl</span>
+              Hello, I'm <span className="highlighted-text">Anıl</span>
             </span>
           </div>
           <div className="profile-details-role">
@@ -65,6 +68,11 @@ export default function Profile() {
             <a href="resume.png" download="SafaAtasoy resume.png">
               <button className="btn highlighted-btn">Get Resume</button>
             </a>
+          </div>
+        </div>
+        <div className="profile-picture">
+          <div className="profile-picture-background">
+
           </div>
         </div>
       </div>
