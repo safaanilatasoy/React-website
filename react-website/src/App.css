@@ -9,5 +9,9 @@
     --orange: #F57F17;
     --white: #ffffff;
     --black: #333333;
-    --disable-btn: #09bead7a;
+    --disabled-btn: #09bead7a;
+    --error-message: #e44f4fd1;
+    --toast-error: #e44f4ffa;
+    --toast-success: #0CBFAE;
+    --loader-color: #0CBFAE;
 }
