@@ -36,7 +36,7 @@ export default function Profile() {
           <div className="profile-details-role">
             <span className="primary-text">
               {" "}
-              <h1>
+              <h2>
                 {" "}
                 <Typical
                 loop = {Infinity}
@@ -46,7 +46,7 @@ export default function Profile() {
                 
                 ]}
                 />
-              </h1>
+              </h2>
                 <span className="profile-role-tagline">
                   Front and back website development. building applications
                   with front and back end operations.

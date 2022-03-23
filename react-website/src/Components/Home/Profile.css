@@ -27,7 +27,8 @@
     font-family: cursive;
 }
 .primary-text {
-    color: (--white);
+    color: var(--white);
+    font-family: "Poppins SemiBold"
 }
 .higlighted-text{
     color: #e67e22;
