@@ -30,7 +30,7 @@ export default function Profile() {
           <div className="profile-details-name">
             <span className="primary-text">
               {" "}
-              Hello, I'm <span className="highlighted-text">Anıl</span>
+              Hello, I'm <span className="higlighted-text">Safa Anıl Atasoy</span>
             </span>
           </div>
           <div className="profile-details-role">
@@ -41,17 +41,9 @@ export default function Profile() {
                 <Typical
                 loop = {Infinity}
                 steps={[
-                  "Safa Anıl Atasoy 🔴",
+                  "Software Dev. 💻",
                   1000,
-                  "Software Dev 🟢",
-                  1000,
-                  "HTML/CSS, Javascript, Bootstrap 🟡",
-                  1000,
-                  "React, GIT, MySQL, NodeJs, Python 🟠",
-                  1000,
-                  "Rest API, Google Cloud 🟣",
-                  1000,
-
+                
                 ]}
                 />
               </h1>
